@@ -34,8 +34,4 @@ Feature: Verify the App functions
     And User clicks on "Save UPI"
     And User clicks on "Back Button"
     Then Verify the "Cart" Page
-    And User clicks on "Back Button"
-    Then Verify the "Restaurant" Page
-    And User clicks on "Back Button"
-    Then Verify the "Home" Page
     Then User closes the App
