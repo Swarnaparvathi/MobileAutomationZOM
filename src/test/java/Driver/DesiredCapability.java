@@ -22,7 +22,7 @@ public class DesiredCapability {
             desiredCapabilities.setCapability("appium:automationName", "UiAutomator2");
             desiredCapabilities.setCapability("platformName", platformName);
             desiredCapabilities.setCapability("appium:appPackage", "com.application.zomato");
-//            desiredCapabilities.setCapability("appium:app", userDir +"/src/main/resources/app/Zomato.apk");
+            desiredCapabilities.setCapability("appium:app", userDir +"/src/main/resources/app/Zomato.apk");
             desiredCapabilities.setCapability("appium:appActivity", "com.application.zomato.activities.Splash");
             desiredCapabilities.setCapability("appium:skipUnlock", "true");
             desiredCapabilities.setCapability("appium:noReset", "true");
