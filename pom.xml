@@ -16,7 +16,6 @@
         <testng-version>7.4.0</testng-version>
         <lombok-version>1.18.20</lombok-version>
     </properties>
-
     <dependencies>
 
         <dependency>
