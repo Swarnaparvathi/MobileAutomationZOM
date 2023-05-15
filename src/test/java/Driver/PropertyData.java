@@ -6,8 +6,8 @@ package Driver;
  */
 public class PropertyData {
 
-    public String MobileNumber = "8147911870";
-    public String RestaurantName = "Truffles";
+    public String MobileNumber = "9361177058";
+    public String RestaurantName = "Empire Restaurant";
     public String UPIID = "9876543210@ybl";
 
 
