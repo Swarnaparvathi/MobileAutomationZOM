@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 1, Errors: 0, Skipped: 5, Time elapsed: 2.951 sec <<< FAILURE!
-setup(Driver.TestRunner)  Time elapsed: 0.368 sec  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 3.768 sec <<< FAILURE!
+setup(Driver.TestRunner)  Time elapsed: 0.872 sec  <<< FAILURE!
 org.testng.TestNGException: 
 Parameter 'udid' is required by BeforeMethod on method setup but has not been marked @Optional or defined
 	at org.testng.internal.Parameters.createParams(Parameters.java:270)

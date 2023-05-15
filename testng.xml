@@ -4,7 +4,7 @@
 <suite name="Mobile_Test_Suite" parallel="tests" thread-count="2">
 
     <test name="Android">
-        <parameter name="udid" value="2A051JEGR33125"/>
+        <parameter name="udid" value="RF8N32LS6TK"/>
         <parameter name="platformName" value="Android"/>
         <parameter name="platformVersion" value="13"/>
         <classes>

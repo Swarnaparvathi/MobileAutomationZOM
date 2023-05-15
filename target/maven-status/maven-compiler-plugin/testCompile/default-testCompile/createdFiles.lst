@@ -1,0 +1,15 @@
+Utils/OTPExtractor.class
+Driver/PropertyData.class
+Driver/DesiredCapability.class
+Utils/SetProperties.class
+PageObjects/AppiumActions.class
+ObjectRepository/BaseScreen.class
+Driver/DriverManager.class
+ObjectRepository/HomePage_OR.class
+Driver/TestRunner.class
+Driver/BaseTest.class
+ObjectRepository/LandingPage_OR.class
+ObjectRepository/RestaurantPage_OR.class
+Utils/ReadProperties.class
+Driver/StepDefinitions/StepDefinitions.class
+Driver/StepDefinitions/BaseSteps.class
