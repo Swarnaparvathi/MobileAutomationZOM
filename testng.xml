@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Mobile_Test_Suite" parallel="tests" thread-count="2">
+
+    <test name="2A051JEGR33125">
+        <parameter name="udid" value="2A051JEGR33125"/>
+        <parameter name="platformName" value="Android"/>
+        <parameter name="platformVersion" value="13"/>
+        <classes>
+            <class name="Driver.TestRunner"/>
+        </classes>
+    </test>
+    
+<!--    <test name="iPhone">-->
+<!--        <parameter name="udid" value="xxxxxxxxxxxxxxxxxx"/>-->
+<!--        <parameter name="platformName" value="iOS"/>-->
+<!--        <parameter name="platformVersion" value="15.2.1"/>-->
+<!--        <classes>-->
+<!--            <class name="Driver.TestRunner"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
