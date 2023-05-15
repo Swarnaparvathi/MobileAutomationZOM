@@ -34,7 +34,7 @@ Framework Architecture
 		|	|	|_Basescreen.java
 		|	|	|_LandingPage_OR.java
 		|	|	|_HomePage_OR.java
-        |	|	|_RestaurantPage_OR.java
+            |	|	|_RestaurantPage_OR.java
 		|	|	|...
 		|	|_StepDefinitions
 		|	|	|_BaseSteps.java
